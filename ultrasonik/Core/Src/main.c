@@ -108,7 +108,7 @@ int main(void)
   MX_TIM1_Init();
   MX_TIM2_Init();
   /* USER CODE BEGIN 2 */
-
+  //TEST COMMIT
 	// Объявляем моторы
 	Motor_t motorA = {
 			.in1_port = GPIOB,
